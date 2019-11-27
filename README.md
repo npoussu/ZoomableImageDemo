@@ -1,10 +1,8 @@
 # Zoomable Image Demo - Native Android Implementation
-=====================================================
 
 This demo implements a image component zoomable with pinch-gestures.
 
 ## Getting started
----------------
 
 This sample uses the Gradle build system.
 
